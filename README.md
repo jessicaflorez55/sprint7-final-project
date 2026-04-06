@@ -58,4 +58,4 @@ Las etapas desarrolladas en este proyecto fueron:
 ### Opción 2: Ejecutar localmente
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/sprint7-final-project.git
+git clone 
