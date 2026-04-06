@@ -58,4 +58,4 @@ Las etapas desarrolladas en este proyecto fueron:
 ### Opción 2: Ejecutar localmente
 1. Clona el repositorio:
 ```bash
-git clone 
+git clone https://github.com/jessicaflorez55/sprint7-final-project/blob/main/proyecto_connectaTel.ipynb
