@@ -1,4 +1,4 @@
-# 📊 sprint7-final-project
+# 📊 ConnectaTel-proyecto
 
 ## 📌 Descripción del proyecto
 Este proyecto consiste en el análisis y evaluación del comportamiento de los clientes de la empresa de telecomunicaciones **ConnectaTel** en Latinoamérica.
